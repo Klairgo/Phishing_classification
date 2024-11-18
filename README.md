@@ -21,7 +21,9 @@ Phishing websites pose a big threat to anyone using the internet and the main go
 
 
 ## Files:
-    |-- preprocess.ipynb
-    |-- DT.ipynb                      (Decision Tree)
-    |-- NN.ipynb                      (Neural Network)
+    |-- tree_gini.pdf                     (Decision Tree output)
+    |-- src
+        |-- preprocess.ipynb
+        |-- DT.ipynb                      (Decision Tree)
+        |-- NN.ipynb                      (Neural Network)
 
