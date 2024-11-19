@@ -28,6 +28,10 @@ Phishing websites pose a big threat to anyone using the internet and the main go
 - Run the preprocess.ipynb first to create and download the necessary data files. 
 - When the data folder and files are created, you can run the DT.ipynb and NN.ipynb.
 
+### Note:
+- PyTorch: "Completely reproducible results are not guaranteed across PyTorch releases, individual commits, or different platforms. Furthermore, results may not be reproducible between CPU and GPU executions, even when using identical seeds."
+- This can mean that the exact results that was captured during this project could differ when running on another environment. That said, the observed differences should still be clear when running the notebooks.
+
 ## Files:
     |-- README.md:       Readme file
     |-- pyproject.toml:  Project description used by uv (including dependencies)
