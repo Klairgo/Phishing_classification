@@ -7,18 +7,16 @@ Phishing websites pose a big threat to anyone using the internet and the main go
 
 ## How to run (locally):
 ```bash
-    git clone https://github.com/Klairgo/Phishing_classification.git
+git clone https://github.com/Klairgo/Phishing_classification.git
 ```
 
 ### Make sure to have "uv" installed:
-```bash
-    pip install uv
-```
+
 - Visit [uv](https://docs.astral.sh/uv/) for more information.
 
 ### Install the required packages:
 ```bash
-    uv sync
+uv sync
 ```
 
 ### Run the notebooks:
