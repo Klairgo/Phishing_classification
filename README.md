@@ -27,3 +27,7 @@ Phishing websites pose a big threat to anyone using the internet and the main go
         |-- DT.ipynb                      (Decision Tree)
         |-- NN.ipynb                      (Neural Network)
 
+- preprocess.ipynb - Code for all the preprocessing of the dataset.
+- DT.ipynb - Code to train and export the decision tree used to classify the websites. Hyperparameter optimization code is included in this notebook
+- NN.ipynb - Code to train the neural network to classify the websites. Hyperparameter optimization code is included in this notebook.
+
